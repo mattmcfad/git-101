@@ -1,21 +1,4 @@
-# Testing Git 101
-
-* this is a list item
-* list item 2
-
-
-```
-
-function(x) {
-	return x + 6;
-}
-
-```
-
-Hello `world`
-
-
-
+# Git 101
 
 ## creating a new project
 
@@ -81,7 +64,8 @@ git commit -am "added all files yolo and this is the commit message"
 
 ```
 
-## Views!
+
+## Views from the CLI
 
 ### view the status of your git
 
@@ -97,10 +81,9 @@ git status
 
 git log
 
-
 ```
 
-## pushing your commits!
+## pushing your commits
 
 ```
 
@@ -129,7 +112,7 @@ git checkout branchName
 
 ```
 
-### quick switch to your last branch
+### quick switch to the last branch you were on
 
 ```
 
