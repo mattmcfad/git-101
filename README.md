@@ -128,7 +128,7 @@ git fetch remoteName
 
 ```
 
-* grabs all code & new branches, basically gets everything from remote
+* updates all the branches for a remote, (new or deleted)
 
 
 ### pulling from a specific branch
@@ -139,6 +139,7 @@ git pull remoteName branchName
 
 ```
 
+* merges in all the latest code into your local repo.
 * make sure you're on the same branch
 
 `e.g. git pull origin master` to get lastest changes.
